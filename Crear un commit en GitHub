@@ -1,0 +1,1 @@
+Para crear un commit en GitHub (localmente y luego subirlo), primero prepara tus archivos con git add ., luego confirma los cambios usando git commit -m "mensaje descriptivo" y finalmente sube al repositorio remoto con git push.
